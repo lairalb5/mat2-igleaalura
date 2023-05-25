@@ -1,0 +1,159 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.cabecalho{
+    background-color: #fff;
+    color: #000000;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 1px 0;
+
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 77px;
+}
+.cabecalho-imagem{
+    width: 7%
+    position: absolute;
+width: 271px;
+height: 224px;
+left: 368px;
+top: 43px;
+}
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    
+}
+
+.escola-imagem{
+    width: 20;
+}
+.escola{
+    background-image: linear-gradient(#4D0B64,#B74EE9);
+    color:rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    padding: 180px 0;
+}
+.escola-div-conteudo{
+    width: 20%;
+    position: absolute;
+width: 722px;
+height: 332.42px;
+left: 173px;
+top: 454px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+}
+.escola-titulo{
+    padding: 40px 0;
+    width: 400px;
+    height: 32px;
+    left: 166px;
+    top: 296px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 77px;
+}
+.estudante-imagem{
+    width: 200px;
+    
+}
+.icone{
+    width: 45px;
+}
+.foguetes-div{
+    text-align: center;
+}
+.a{
+    text-align: center;
+    padding: 50px 0;
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 48px;
+}
+.todos{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20%;
+}
+.rodape{
+    background-color: #000000;
+    text-align: center;
+}
+.roda{
+    text-align: center;
+    padding: 50px 0;
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 58px;
+    color: #fff;
+    
+}
+.estudantes{
+    background-color: #7E10A5;
+    color:rgb(255, 255, 255);
+}
+.foguete-1{
+    width: 200px;
+}
+.foguete-2{
+    width: 180px;
+}
+.foguete-3{
+    width: 200px;
+}
+.foguete-4{
+    width: 250px;
+}
+.foguete-5{
+    width: 300px;
+}
+.cabecalho-2{
+    
+    position: absolute;
+    width: 143px;
+    height: 39px;
+    left: 1132px;
+    top: 50px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 150px;
+    
+}
+.cabecalho-3{
+    
+    position: absolute;
+    width: 66px;
+    height: 39px;
+    left: 948px;
+    top: 50px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 150px;
+     
+}
